@@ -1,0 +1,5 @@
+wxyz
+3
+Encrypted string : defg
+Encrypted string : abcd
+Encrypted string : zabc

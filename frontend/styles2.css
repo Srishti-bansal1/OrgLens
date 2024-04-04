@@ -1,0 +1,18 @@
+ body, html {
+    height: 100%;
+    display: flex; /* without this content move left-top-corner of the screen */
+    justify-content: center; /* without this content move left-side of the screen */
+    align-items: center; /* without this content move top of the screen */
+} 
+
+.centered-div {
+    width: 200px;
+    height: 200px;
+    background-color: #84dd9e; /* Background color for visualization */
+}
+.textcenter{
+    height: 100%;
+    display: flex; /* without this content move left-top-corner of the screen */
+    justify-content: center; /* without this content move left-side of the screen */
+    align-items: center
+}
